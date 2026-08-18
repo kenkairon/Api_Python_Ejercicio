@@ -1,10 +1,14 @@
 #  Ejercicios
 
-## Crear un Entorno Virtual y activar dependencias
+## Crear un Entorno Virtual 
 
 ```bash
 python -m venv venv
 
+```
+## Activar el Entorno Virtual
+
+```bash
 .\venv\Scripts\activate
 ```
 
