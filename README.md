@@ -1,4 +1,4 @@
-# 🧪 Ejercicios
+#  Ejercicios
 
 ## Crear un Entorno Virtual y activar dependencias
 
