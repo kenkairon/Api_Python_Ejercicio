@@ -1,5 +1,19 @@
 # 🧪 Ejercicios
 
+## Crear un Entorno Virtual y activar dependencias
+
+```bash
+python -m venv venv
+
+.\venv\Scripts\activate
+```
+
+## Instalar Dependecias de requests
+
+```bash
+pip install requests
+
+```
 ## Ejercicio 1 — Petición GET
 
 Realizar una petición `GET` y comprobar si el servidor devuelve el código de estado `200`.
