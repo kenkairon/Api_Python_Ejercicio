@@ -54,7 +54,7 @@ Y dentro guardar los cuatro ejercicios.
 
 ### Ejercicio 1
 
-![Ejercicio1POSTMAN]("imagenes/ejercicio1.png")
+![Ejercicio1POSTMAN](imagenes/ejercicio1.png)
 
 ---
 
@@ -85,7 +85,7 @@ La variable `user` contiene un **diccionario de Python** con la información del
 
 ### Ejercicio 2
 
-![Ejercicio2POSTMAN]("imagenes/ejercicio2.png")
+![Ejercicio2POSTMAN](imagenes/ejercicio2.png)
 
 
 ---
@@ -122,7 +122,7 @@ True
 
 ### Ejercicio 3
 
-![Ejercicio3POSTMAN]("imagenes/ejercicio3.png")
+![Ejercicio3POSTMAN](imagenes/ejercicio3.png)
 
 ---
 
@@ -156,7 +156,7 @@ print(
 
 ### Ejercicio 4 
 
-![Ejercicio4POSTMAN]("imagenes/ejercicio4.png")
+![Ejercicio4POSTMAN](imagenes/ejercicio4.png)
 
 ---
 
