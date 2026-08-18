@@ -38,6 +38,24 @@ print(response.status_code == 200)
 True
 ```
 
+### Probar en Postman
+
+1. Abrir Postman
+
+Abre Postman y crea una nueva petición:
+
+New → HTTP Request
+
+Postman permite crear una petición seleccionando el método y luego indicando la URL.
+
+Te recomiendo crear una colección llamada:
+Ejercicios API Python
+Y dentro guardar los cuatro ejercicios.
+
+### Ejercicio 1
+
+![Ejercicio1POSTMAN]("imagenes/ejercicio1.png")
+
 ---
 
 ## Ejercicio 2 — Obtener datos JSON
@@ -64,6 +82,11 @@ Leanne Graham
 ```
 
 La variable `user` contiene un **diccionario de Python** con la información del usuario.
+
+### Ejercicio 2
+
+![Ejercicio2POSTMAN]("imagenes/ejercicio2.png")
+
 
 ---
 
@@ -97,6 +120,10 @@ print(
 True
 ```
 
+### Ejercicio 3
+
+![Ejercicio3POSTMAN]("imagenes/ejercicio3.png")
+
 ---
 
 ## Ejercicio 4 — Petición POST
@@ -127,7 +154,12 @@ print(
 
 > **Nota:** En este ejercicio se comprueba intencionalmente la existencia de la clave `"d"`, tal como solicita el ejercicio. Sin embargo, la respuesta de JSONPlaceholder normalmente contiene las claves `id`, `title`, `body` y `userId`, por lo que esta condición devuelve `False`.
 
+### Ejercicio 4 
+
+![Ejercicio4POSTMAN]("imagenes/ejercicio4.png")
+
 ---
+
 
 # Guardar las dependencias
 
