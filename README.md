@@ -1,4 +1,4 @@
-# 🧪 Ejercicios
+#  Ejercicios
 
 ## Ejercicio 1 — Petición GET
 
